@@ -1,0 +1,9 @@
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\bin\Debug\Border-radius Previewer.exe.config
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\bin\Debug\Border-radius Previewer.exe
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\bin\Debug\Border-radius Previewer.pdb
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\obj\Debug\Border-radius Previewer.csprojResolveAssemblyReference.cache
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\obj\Debug\Border_radius_Previewer.Form1.resources
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\obj\Debug\Border_radius_Previewer.Properties.Resources.resources
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\obj\Debug\Border-radius Previewer.csproj.GenerateResource.Cache
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\obj\Debug\Border-radius Previewer.exe
+C:\Users\e_shabalina\Desktop\Border-radius Previewer\Border-radius Previewer\obj\Debug\Border-radius Previewer.pdb
